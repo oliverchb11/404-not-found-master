@@ -39,15 +39,18 @@ pages 404 not found
 ## Overview
 
 ![Screenshot_2021-04-08 Document](https://user-images.githubusercontent.com/61337991/114113617-b691d080-98a4-11eb-9dff-3b33eb46c8a8.png)
-9059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png![Uploading imagen.png…]()
 )
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+- 
 - What was your experience?
+- Me gusto mucho la experiencia pienso que he mejorado mis conocimientos en css no son muy altos pero si he mejerodo mucho mi conocimiento
 - What have you learned/improved?
+- FLEXBOX, CSS , USAR @FONT-FACE
 - Your wisdom? :)
+- ANGULAR,NODE JS, HTML5, CSS3, REDUX, PHP
 
 ### Built With
 
